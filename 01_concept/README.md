@@ -204,9 +204,9 @@
 # 7장. 맵-리듀스 (Scatter-Gather의 한 형태)
 각 DB 마다 구현되어 있는 내용이 다르긴 하지만, 개념적으로 접근했을 때 아래와 같은 특징을 가진다. 
 
-![Map Reduce Algorithm](/img/map_reduce_algorithm.png)
+![Map Reduce Algorithm](/01_concept/img/map_reduce_algorithm.png)
 
-![Map Reduce Vitualization](/img/map_reduce_vitualization.png)
+![Map Reduce Vitualization](/01_concept/img/map_reduce_vitualization.png)
 
 1. 생각의 출발
         
